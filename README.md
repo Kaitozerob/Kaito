@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaito</h1>
+![Perfil_portadad](https://github.com/Kaitozerob/Kaito/assets/72896411/eac03a7a-e421-49e0-909f-63e4fa0f69f7)
 
-![Screenshot_1](https://github.com/Kaitozerob/Kaito/assets/72896411/f6773f3e-3d90-4284-aa71-1144450e2d7a)
 
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
