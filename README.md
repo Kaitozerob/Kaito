@@ -5,6 +5,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+Here's a little about me:
+
+- 🚀 I am a **Junior Front-End Developer** with enthusiasm for coding, design and financial management.
+- 🌱 I am currently learning **Flutter Application Development and Web Development**.
+- 🎓 On my way to **Software Engineering**, perfecting my skills in programming.
+- 🖌️ Creatively expert in **Adobe Design Tools** and passionate about the latest design trends.
+- 🤝 Strongly believes in teamwork, whether in-person or remote, and continually learns from the technology community.
+- 🎮 When I'm not coding, you can find me watching anime or with a controller in my hand, playing games.
+- ☕️ A perfect cup of coffee is the key to any coding challenge.
+- 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
