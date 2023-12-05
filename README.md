@@ -57,9 +57,10 @@
 This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/kaitozerob" target="_blank">Kaitozerb</a>
+---
 
-&#xa0;
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
 
 <a href="#top">Back to top</a>
 
