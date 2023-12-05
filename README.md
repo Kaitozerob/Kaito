@@ -63,6 +63,6 @@ This project is licensed under the MIT License. For more details, please refer t
 
 ---
 
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kaitozerob/README.md)
+_This README was generated with ❤️ by [readme-md](https://github.com/kaitozerob/README.md)
 
 
