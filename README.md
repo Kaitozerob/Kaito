@@ -43,6 +43,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaitozerob&" alt="kaitozerob" /></p>
 
 
+## PageSpeed Insights
+![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
