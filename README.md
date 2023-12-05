@@ -15,7 +15,7 @@ Here's a little about me:
 - 🎮 When I'm not coding, you can find me watching anime or with a controller in my hand, playing games.
 - ☕️ A perfect cup of coffee is the key to any coding challenge.
 
-<h3 align="center"> A passionate **Front-End Developer** from Peru</h3>
+<h3 align="center"> A passionate Front-End Developer from Peru</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitozerob" alt="kaitozerob" /></a> </p>
 
