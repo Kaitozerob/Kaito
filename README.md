@@ -15,7 +15,7 @@ Here's a little about me:
 - 🤝 Strongly believes in teamwork, whether in-person or remote, and continually learns from the technology community.
 - 🎮 When I'm not coding, you can find me watching anime or with a controller in my hand, playing games.
 - ☕️ A perfect cup of coffee is the key to any coding challenge.
-![3f163c4c228ed6a03cc1add175d3927b](https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975)
+<img src="https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975" height="150" alt="languages graph"/>
 <h3 align="center"> A passionate Front-End Developer from Peru</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitozerob" alt="kaitozerob" /></a> </p>
