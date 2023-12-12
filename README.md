@@ -13,7 +13,6 @@ Here's a little about me:
 - 🌱 I am currently learning **Flutter Application Development and Web Development**.
 - 🎓 On my way to **Software Engineering**, perfecting my skills in programming.
 - 🖌️ Creatively expert in **Adobe Design Tools** and passionate about the latest design trends.
-<p align="right">
 <img align="right" alt="GIF de gato" src="https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975" width="230" />
 - 🤝 Strongly believes in teamwork, whether in-person or remote, and continually learns from the technology community.
 - 🎮 When I'm not coding, you can find me watching anime or with a controller in my hand, playing games.
