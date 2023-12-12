@@ -44,7 +44,7 @@ Here's a little about me:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaitozerob&show_icons=true&locale=en" alt="kaitozerob" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaitozerob&" alt="kaitozerob" /></p>
-<img align="right" alt="GIF de gato" src="https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975" width="230" />
+<img align="right" alt="GIF de gato" src="https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975" width="250" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
