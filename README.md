@@ -2,6 +2,7 @@
 
 ![Perfil_portadad](https://github.com/Kaitozerob/Kaito/assets/72896411/eac03a7a-e421-49e0-909f-63e4fa0f69f7)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+![3f163c4c228ed6a03cc1add175d3927b](https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
