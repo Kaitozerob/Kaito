@@ -46,16 +46,18 @@ Here's a little about me:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaitozerob&" alt="kaitozerob" /></p>
 <img align="right" alt="GIF de gato" src="https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975" width="230" />
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/joanbalbin5/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:joanbalbin5@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 ## :memo: License ##
 
 This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
