@@ -41,7 +41,7 @@ Here's a little about me:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaitozerob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="kaitozerob" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaitozerob&show_icons=true&locale=en" alt="kaitozerob" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaitozerob&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="kaitozerob" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaitozerob&" alt="kaitozerob" /></p>
 <img align="right" alt="GIF de gato" src="https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975" width="250" />
