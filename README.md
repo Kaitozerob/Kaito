@@ -3,6 +3,7 @@
 ![Perfil_portadad](https://github.com/Kaitozerob/Kaito/assets/72896411/eac03a7a-e421-49e0-909f-63e4fa0f69f7)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+<img align="right" alt="GIF de gato" src="https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975" height="150" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -15,7 +16,7 @@ Here's a little about me:
 - 🤝 Strongly believes in teamwork, whether in-person or remote, and continually learns from the technology community.
 - 🎮 When I'm not coding, you can find me watching anime or with a controller in my hand, playing games.
 - ☕️ A perfect cup of coffee is the key to any coding challenge.
-<img align="right" alt="GIF de gato" src="https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975" height="150" />
+
 <h3 align="center"> A passionate Front-End Developer from Peru</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitozerob" alt="kaitozerob" /></a> </p>
