@@ -13,6 +13,7 @@ Here's a little about me:
 - 🌱 I am currently learning **Flutter Application Development and Web Development**.
 - 🎓 On my way to **Software Engineering**, perfecting my skills in programming.
 - 🖌️ Creatively expert in **Adobe Design Tools** and passionate about the latest design trends.
+<p align="right">
 <img align="right" alt="GIF de gato" src="https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975" width="230" />
 - 🤝 Strongly believes in teamwork, whether in-person or remote, and continually learns from the technology community.
 - 🎮 When I'm not coding, you can find me watching anime or with a controller in my hand, playing games.
@@ -47,11 +48,7 @@ Here's a little about me:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaitozerob&" alt="kaitozerob" /></p>
 
 
-## PageSpeed Insights
-![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
-
 <h3> 🤝🏻 Connect with Me </h3>
-
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/joanbalbin5/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:joanbalbin5@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
